@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;hashmap&apos;&#x0D;&#x0A;- Original project: &apos;hashmap&apos;&#x0D;&#x0A;- Original element: &apos;hashmap/src/io.confluent.kafka.schemaregistry.client&apos;" description="Delete element" element1="/src&lt;io.confluent.kafka.schemaregistry.client" element2="/src&lt;io.confluent.kafka.schemaregistry" element3="/src&lt;io.confluent.kafka" element4="/src&lt;io.confluent" element5="/src&lt;io" elements="5" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1498382854139" subPackages="false" version="1.0"/>
+</session>
